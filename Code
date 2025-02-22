@@ -36,7 +36,7 @@
     <h4>Cateogry 6- Food Recipes </h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/lBtbQpXumMc?si=g8finwCxXz4Zpozh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/3D-dC0zmZwI?si=ympNXK21ZwDGFQvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    <h2>Audios Section</h2>
+    <h2>Audio Section</h2>
     <audio src="audio1.mp3" controls aria-label="MEMORIES">MEMORIES</audio>
     <audio src="audio2.mp3" controls>MEMORIES</audio>
     <audio src="audio3.mp3" controls>MEMORIES</audio>
